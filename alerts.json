@@ -1,0 +1,17 @@
+{
+  "keywords": [
+    "addy",
+    "yo"
+  ],
+  "greet_text": "Hi I'll be right back with you",
+  "greet_on": true,
+  "greeted": [],
+  "mention_on": true,
+  "kw_hook": "",
+  "mention_hook": "",
+  "log_hook": "",
+  "role_hook": "",
+  "kw_on": false,
+  "role_on": false,
+  "log_on": true
+}
